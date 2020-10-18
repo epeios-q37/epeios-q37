@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=epeios-q37&theme=highcontrast&show_icons=true&count_private=true) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=epeios-q37&layout=compact)
+
 <!--
 **epeios-q37/epeios-q37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
