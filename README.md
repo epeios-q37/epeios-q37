@@ -1,4 +1,4 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=epeios-q37&theme=buefy&show_icons=true&include_all_commits=true)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=epeios-q37&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=epeios-q37&theme=buefy&show_icons=true&include_all_commits=true)![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=epeios-q37&layout=compact&langs_count=10&hide=php,css)
 
 [![atlas-java](https://github-readme-stats.vercel.app/api/pin/?username=epeios-q37&repo=atlas-java&show_owner=true)](https://github.com/epeios-q37/atlas-java)
 [![atlas-node](https://github-readme-stats.vercel.app/api/pin/?username=epeios-q37&repo=atlas-node&show_owner=true&theme=vue)](https://github.com/epeios-q37/atlas-node)
