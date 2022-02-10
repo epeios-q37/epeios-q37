@@ -1,4 +1,4 @@
-The repositories you will find here are part of the *Epeios* project, that is described on http://epeios.q37.info/.
+The repositories you will find here are part of the *Epeios* project, that is described on https://q37.info/s/m4zvt74d.
 
 [![atlas-java](https://github-readme-stats.vercel.app/api/pin/?username=epeios-q37&repo=atlas-java&show_owner=true)](https://github.com/epeios-q37/atlas-java)
 [![atlas-node](https://github-readme-stats.vercel.app/api/pin/?username=epeios-q37&repo=atlas-node&show_owner=true&theme=vue)](https://github.com/epeios-q37/atlas-node)
