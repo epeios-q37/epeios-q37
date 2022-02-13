@@ -1,4 +1,4 @@
-> The repositories you will find here are part of the *Epeios* project, that is described on https://q37.info/s/m4zvt74d. 
+> The repositories you will find here are part of the [*Epeios* project](https://q37.info/s/m4zvt74d).
 
 ---
 
