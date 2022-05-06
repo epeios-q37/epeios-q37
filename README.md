@@ -8,6 +8,7 @@
 [![atlas-perl](https://github-readme-stats.vercel.app/api/pin/?username=epeios-q37&repo=atlas-perl&show_owner=true&theme=graywhite)](https://github.com/epeios-q37/atlas-perl)
 [![atlas-python](https://github-readme-stats.vercel.app/api/pin/?username=epeios-q37&repo=atlas-python&show_owner=true&theme=buefy)](https://github.com/epeios-q37/atlas-python)
 [![atlas-ruby](https://github-readme-stats.vercel.app/api/pin/?username=epeios-q37&repo=atlas-ruby&show_owner=true&theme=flag-india)](https://github.com/epeios-q37/atlas-ruby)
+[![Programs from 'The Big Book of Small Python Projects' by Al Sweigart with a GUI](https://github-readme-stats.vercel.app/api/pin/?username=epeios-q37&repo=AlSweigartTheBigBookPython&show_owner=true&theme=flag-india)](https://github.com/epeios-q37/AlSweigartTheBigBookPython)
 
 ---
 
