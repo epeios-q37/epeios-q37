@@ -1,7 +1,9 @@
 
-### To reduce the impact of social media on our kids by stimulating their creativity: [*Zelbinium*](https://zelbinium.q37.info/)!
+#### To reduce the impact of social media on our kids by stimulating their creativity: [*Zelbinium*](https://zelbinium.q37.info/)!
 
-![](https://github.com/epeios-q37/epeios-q37/assets/22625704/cbac54aa-fa0d-436d-8228-32ae16e4734b)
+<p align="center">
+  <img width="500" src="https://github.com/epeios-q37/epeios-q37/assets/22625704/cbac54aa-fa0d-436d-8228-32ae16e4734b">
+</p>
 
 <!--
 **epeios-q37/epeios-q37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
