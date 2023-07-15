@@ -1,5 +1,5 @@
 
-#### To reduce the impact of social media on our kids by stimulating their creativity: [*Zelbinium*](https://zelbinium.q37.info/)!
+<h4 align="center">To reduce the impact of social media on our kids by stimulating their creativity: <a href="https://zelbinium.q37.info/" target="_blank"><em>Zelbinium</em></a>!</h4>
 
 <p align="center">
   <img width="500" src="https://github.com/epeios-q37/epeios-q37/assets/22625704/cbac54aa-fa0d-436d-8228-32ae16e4734b">
