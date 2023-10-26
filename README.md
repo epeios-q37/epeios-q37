@@ -1,9 +1,6 @@
+Cyberaddiction, cyberbullying, pedocriminality…: [*Zelbinium*](http://zelbinium.q37.info/), let smartphones be the solution, not the problem!
 
-#### Cyberaddiction, cyberbullying, pedocriminality…: [*Zelbinium*](http://zelbinium.q37.info/), let smartphones be the solution, not the problem!
-
-<p align="center">
-  <img width="500" src="https://github.com/epeios-q37/epeios-q37/assets/22625704/cbac54aa-fa0d-436d-8228-32ae16e4734b">
-</p>
+ ![](https://github.com/epeios-q37/epeios-q37/assets/22625704/cbac54aa-fa0d-436d-8228-32ae16e4734b)
 
 <!--
 **epeios-q37/epeios-q37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
