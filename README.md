@@ -1,4 +1,4 @@
-Cyberaddiction, cyberbullying, pedocriminality…: [*Zelbinium*](http://zelbinium.q37.info/), let smartphones be the solution, not the problem!
+[*Zelbinium*](http://zelbinium.q37.info/): stop letting smartphones poison your relationship with your children and compromise their well-being!
 
  ![](https://github.com/epeios-q37/epeios-q37/assets/22625704/cbac54aa-fa0d-436d-8228-32ae16e4734b)
 
