@@ -1,4 +1,4 @@
-[*Zelbinium*](https://github.com/epeios-q37/zelbinium): against the harmful effects of video games and social media on our children!
+[*Zelbinium*](https://github.com/epeios-q37/zelbinium): To free our youth from the grip of the tech giants!
 
  ![](https://github.com/epeios-q37/epeios-q37/assets/22625704/cbac54aa-fa0d-436d-8228-32ae16e4734b)
 
