@@ -1,7 +1,6 @@
-[*Zelbinium*](https://github.com/epeios-q37/zelbinium): to free us from the digital giants!
+[*Zelbinium*](https://zelbinium.q37.info): IT for all.
 
- ![](https://github.com/epeios-q37/epeios-q37/assets/22625704/cbac54aa-fa0d-436d-8228-32ae16e4734b)
-
+ ![](https://zelbinium.q37.info/DIY.jpg)
 <!--
 **epeios-q37/epeios-q37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
